@@ -35,7 +35,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_stepper_touch:
-    path: ../flutter_stepper_touch
+    path: https://github.com/Excelsior-Technologies-Community/flutter_stepper_touch/tree/stage
 ```
 Then run:
 ```
