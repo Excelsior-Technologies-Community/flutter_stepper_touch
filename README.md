@@ -58,7 +58,7 @@ flutter_stepper_touch/
 │   ├─ flutter_stepper_touch.dart
 │   │   // Main export file
 │   │
-│   └─ main.dart
+│   ├─main.dart
 │   │  // Demo application
 │   │    
 │   └─ src/
